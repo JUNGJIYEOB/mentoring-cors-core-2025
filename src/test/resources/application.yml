@@ -1,0 +1,5 @@
+Spring :
+    config:
+      import:
+        - webmvc/cors.yml
+
